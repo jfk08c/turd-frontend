@@ -1,0 +1,1 @@
+html,body,#root{width:100%;height:100%;margin:0;padding:0;overflow:hidden;background:0 0!important}:root{background:0 0!important}@keyframes pop{0%{opacity:1;transform:translate(-50%,-50%)scale(.2)}70%{opacity:.8;transform:translate(-50%,-50%)scale(1.4)}to{opacity:0;transform:translate(-50%,-50%)scale(2)}}
